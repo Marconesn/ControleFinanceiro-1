@@ -26,4 +26,5 @@ public class ReceitaActivity extends AppCompatActivity {
         });
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
+
 }
